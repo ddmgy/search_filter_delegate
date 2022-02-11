@@ -1,0 +1,21 @@
+name: search_filter_delegate
+description: A custom SearchDelegate that allows users to filter items with search filters.
+version: 0.1.0
+homepage: https://github.com/ddmgy/search_filter_delegate
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  petitparser: "^4.4.0"
+  equatable: "^2.0.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
